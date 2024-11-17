@@ -1,0 +1,18 @@
+
+# Ignorar pastas de build
+bin/
+obj/
+
+# Arquivos de configuração do Visual Studio
+*.user
+*.suo
+*.vs
+
+# Logs
+*.log
+
+# Pastas do Visual Studio Code
+.vscode/
+
+# Ignorar dependências Node.js (se houver)
+node_modules/
